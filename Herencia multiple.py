@@ -27,3 +27,6 @@ class PersonaArtista(persona, Artista):
 
 persona1 = PersonaArtista("Juan", 30, "Mexicano", "Pintura", 50000, "Galería de Arte")
 persona1.mostrar_informacion() 
+
+
+print("hola mundo")
